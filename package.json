@@ -1,0 +1,19 @@
+{
+  "name": "js-framework-react-ass2",
+  "version": "1.0.0",
+  "description": "JSframework Assignment 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "date-fns": "^2.29.3",
+    "jasmine-node": "^3.0.0"
+  }
+}
